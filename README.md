@@ -14,4 +14,4 @@ It acts as a simple yet powerful tool to help you measure elapsed time and set r
 - python 3.x
 - tkinter (usually included with Python) 
 
-![stopwatch timer](image/demo_stopwatch.png"lahari stopwatch interface")
+![stopwatch](image/demo_stopwatch.png "lahari stopwatch interface")
