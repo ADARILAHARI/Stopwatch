@@ -5,7 +5,7 @@ import time
 class Stopwatch:
     def __init__(self, root):
         self.root = root
-        self.root.title("Stopwatch Timer")
+        self.root.title("Lahari Stopwatch Timer")
         self.running = False
         self.counter = 0
         self.reminder_time = 0
